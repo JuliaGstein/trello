@@ -49,4 +49,5 @@ end
 
   gem 'simple_form'
   gem 'devise'
-  gem "font-awesome-rails"
+  gem 'font-awesome-rails'
+  gem 'twitter-bootstrap-rails'
